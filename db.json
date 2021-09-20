@@ -1,0 +1,68 @@
+[
+{
+"title":"Rose Villa",
+"country":"Koramangala,Banglore",
+"Votes":4,
+"viewer":"8",
+"messages":990,
+  "guest": 8,
+  "including": "Breakfast",
+  "call": "Doctor on call",
+  "specification1":
+  "Comfortable house with newly as Renovated kitchen and bathroom.",
+  "specification2":"Comfortable house with exposed Bricks there is true city feeling.",
+  "specification3": "The space fits four and centrally Located in quiet street."
+,
+  "image":"https://media.istockphoto.com/photos/modern-house-evening-view-interior-and-exterior-picture-id1201803911?k=20&m=1201803911&s=612x612&w=0&h=H4Lq-YDNyIvRFNy_Q_TKrAZyvwvZbfzGpkwBt_bhX9E="
+},
+{
+"title":"Blue House",
+"country":"Indiranagar,Banglore",
+"Votes":4,
+"viewer":"11k",
+"messages":560,
+  "guest": 4,
+  "including": "Dinner",
+  "call": "Doctor on call",
+  "specification1":
+  "Comfortable house with newly as Renovated kitchen and bathroom.",
+  "specification2":"Comfortable house with exposed Bricks there is true city feeling.",
+  "specification3": "The space fits four and centrally Located in quiet street."
+,
+  "image":"https://media.istockphoto.com/photos/modern-custom-suburban-home-exterior-picture-id1255835530?b=1&k=20&m=1255835530&s=170667a&w=0&h=vWteBzGCikOwcc8iznEOTM_Sdk8URYryKlBmaxMJdcs="
+},
+{
+"title":"Ocean Villa",
+"country":"M.G. Road,Banglore",
+"Votes":4,
+"viewer":"6K",
+"messages":470,
+  "guest": 6,
+  "including": "Breakfast",
+  "call": "Doctor on call",
+  "specification1":
+"Comfortable house with newly as Renovated kitchen and bathroom.",
+  "specification2":"Comfortable house with exposed Bricks there is true city feeling.",
+  "specification3": "The space fits four and centrally Located in quiet street."
+,
+  "image":"https://media.istockphoto.com/photos/luxury-holiday-villa-with-infinity-pool-at-sunset-picture-id1044560218?b=1&k=20&m=1044560218&s=170667a&w=0&h=VebT-MsQZ7VkFk51bxuWznVU1RJKa4AzETtDQdm-nLc="
+},
+{
+"title":"Calp Flat",
+"country":"HSR Layout,Banglore",
+"Votes":4,
+"viewer":"12k",
+"messages":580,
+  "guest": 4,
+  "including": "Breakfast,Lunch",
+"call": "Doctor on call",
+  "specification1":
+    "Comfortable house with newly as Renovated kitchen and bathroom.",
+  "specification2":"Comfortable house with exposed Bricks there is true city feeling.",
+  "specification3": "The space fits four and centrally Located in quiet street."
+  ,
+  "image":"https://media.istockphoto.com/photos/calp-alicante-spain-picture-id1074946410?b=1&k=20&m=1074946410&s=170667a&w=0&h=P3DfQiEC3t_CJe0Y5k8ZIJXHawyKK7ViH3KVZXbNjss="
+}
+
+
+]
